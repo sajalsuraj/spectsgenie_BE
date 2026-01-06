@@ -1,8 +1,0 @@
-form#adminLoginForm input.login-input {
-  width: 100%;
-}
-
-form.sgForm label.error {
-  color: red;
-  font-weight: 200;
-}
